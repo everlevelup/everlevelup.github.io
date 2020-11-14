@@ -1,0 +1,14 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://everlevelup.com/</loc>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://everlevelup.com/contact</loc>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://everlevelup.com/julie</loc>
+        <priority>0.5</priority>
+    </url>
+</urlset>

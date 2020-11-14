@@ -1,0 +1,7 @@
+User-agent: *
+Disallow:
+Disallow: /cgi-bin/
+
+
+Host: https://everlevelup.com/
+Sitemap: https://everlevelup.com/sitemap.xml
